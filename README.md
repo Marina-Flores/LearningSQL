@@ -1,2 +1,2 @@
-# LearningSQL
+# Learning SQL
 Scripts de SQL
